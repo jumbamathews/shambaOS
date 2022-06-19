@@ -1,0 +1,3 @@
+# Inherits from docker-compose.testing.common.yml
+version: '3'
+services: {  }

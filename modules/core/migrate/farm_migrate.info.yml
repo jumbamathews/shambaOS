@@ -1,0 +1,17 @@
+name: shambaOS Migrate
+description: shambaOS 1.x to 2.x migration tool.
+type: module
+package: shambaOS
+core_version_requirement: ^9
+dependencies:
+  - drupal:migrate
+  - drupal:migrate_drupal
+  - farm:asset
+  - log:log
+  - migrate_plus:migrate_plus
+  - migrate_tools:migrate_tools
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

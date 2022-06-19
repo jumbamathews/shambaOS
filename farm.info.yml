@@ -1,0 +1,32 @@
+name: shambaOS
+type: profile
+description: 'A web-based farm record keeping application.'
+core_version_requirement: ^9
+
+# This is automatically set during release packaging.
+# version: 2.x
+
+# Declare this profile a distribution and mark it as 'exclusive' so that it is
+# automatically selected during installation.
+distribution:
+  name: shambaOS
+  # Set the default language to English.
+  # We do not allow this default site language config to be changed.
+  # Instead, we use the "Selected language" detection method to set the default.
+  # @see https://www.drupal.org/project/farm/issues/3257430
+  langcode: en
+exclusive: true
+
+# Required modules.
+dependencies: {  }
+
+# Install modules and theme.
+install:
+  - dblog
+themes:
+  - claro
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

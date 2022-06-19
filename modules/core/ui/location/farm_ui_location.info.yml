@@ -1,0 +1,15 @@
+name: shambaOS UI Location
+description: Provides UI for managing location assets in shambaOS.
+type: module
+package: shambaOS UI
+core_version_requirement: ^9
+dependencies:
+  - farm:farm_entity
+  - farm:farm_location
+  - farm:farm_ui_menu
+  - inspire_tree:inspire_tree
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

@@ -1,0 +1,12 @@
+name: shambaOS UI Theme
+description: Install Gin theme and provide overrides for shambaOS.
+type: module
+package: shambaOS UI
+core_version_requirement: ^9
+dependencies:
+  - drupal:block
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

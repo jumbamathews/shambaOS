@@ -1,0 +1,13 @@
+name: shambaOS Flags
+description: Provides a general purpose record flagging system.
+type: module
+package: shambaOS
+core_version_requirement: ^9
+dependencies:
+  - drupal:text
+  - farm:farm_field
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

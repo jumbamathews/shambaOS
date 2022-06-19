@@ -1,0 +1,11 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farm_map
+id: geofield_widget
+label: Geofield widget
+description: 'Renders a geofield widget using shambaOS-map.'
+behaviors: {  }
+options: {  }

@@ -1,0 +1,13 @@
+name: Sensor asset
+description: Adds a Sensor asset type with data streams.
+type: module
+package: shambaOS Assets
+core_version_requirement: ^9
+dependencies:
+  - farm:data_stream
+  - farm:farm_entity
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

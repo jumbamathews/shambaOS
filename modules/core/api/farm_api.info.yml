@@ -1,0 +1,17 @@
+name: shambaOS API
+description: Provides configuration for the shambaOS API.
+type: module
+package: shambaOS
+core_version_requirement: ^9
+dependencies:
+  - drupal:jsonapi
+  - entity:entity
+  - jsonapi_extras:jsonapi_extras
+  - jsonapi_schema:jsonapi_schema
+  - simple_oauth:simple_oauth
+  - subrequests:subrequests
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

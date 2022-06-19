@@ -1,0 +1,10 @@
+name: shambaOS Entity Views
+description: Views integration support for shambaOS entities and fields.
+type: module
+package: shambaOS
+core_version_requirement: ^9
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

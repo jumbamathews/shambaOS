@@ -1,0 +1,13 @@
+map_popup_iframe:
+  css:
+    theme:
+      css/map_popup_iframe.css: { }
+  dependencies:
+    - farm_map/behavior_popup
+
+behavior_asset_type_layers:
+  js:
+    js/shambaOS.map.behaviors.asset_type_layers.js: { }
+  dependencies:
+    - farm_ui_map/map_popup_iframe
+    - farm_map/farm_map

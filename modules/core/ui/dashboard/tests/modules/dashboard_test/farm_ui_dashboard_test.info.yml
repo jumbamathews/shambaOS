@@ -1,0 +1,12 @@
+name: Farm UI Dashboard module tests
+description: Support module for dashboard.
+type: module
+package: Testing
+core_version_requirement: ^9
+dependencies:
+  - farm:farm_ui_dashboard
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

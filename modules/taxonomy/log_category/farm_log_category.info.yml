@@ -1,0 +1,12 @@
+name: Log categories vocabulary
+description: Provides a Log categories vocabulary.
+type: module
+package: shambaOS Taxonomies
+core_version_requirement: ^9
+dependencies:
+  - drupal:taxonomy
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

@@ -1,0 +1,6 @@
+mapbox:
+  js:
+    js/shambaOS.map.behaviors.mapbox.js: { }
+  dependencies:
+    - core/drupalSettings
+    - farm_map/shambaOS-map

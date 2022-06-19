@@ -1,0 +1,17 @@
+name: shambaOS Inventory
+description: Adds inventory features to quantities.
+type: module
+package: shambaOS
+core_version_requirement: ^9
+dependencies:
+  - drupal:options
+  - farm:asset
+  - farm:farm_field
+  - farm:farm_log_quantity
+  - farm:quantity
+  - fraction:fraction
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

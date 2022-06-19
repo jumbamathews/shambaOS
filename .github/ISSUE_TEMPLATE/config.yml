@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: shambaOS Community Forum
+    url: https://shambaOS.discourse.group/
+    about: Questions, support requests, and feature discussions take place in the forum.
+  - name: shambaOS Chat Room
+    url: https://app.element.io/#/room/#shambaOS:matrix.org
+    about: Join us in the shambaOS chat room on IRC and Matrix.org.

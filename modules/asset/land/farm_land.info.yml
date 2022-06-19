@@ -1,0 +1,12 @@
+name: Land asset
+description: Adds a Land asset type.
+type: module
+package: shambaOS Assets
+core_version_requirement: ^9
+dependencies:
+  - farm:farm_entity
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

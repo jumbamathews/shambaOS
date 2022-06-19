@@ -1,0 +1,15 @@
+name: shambaOS Quick Forms
+description: Provides a framework for shambaOS quick forms.
+type: module
+package: shambaOS
+core_version_requirement: ^9
+dependencies:
+  - drupal:taxonomy
+  - farm:asset
+  - farm:farm_quantity_standard
+  - log:log
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

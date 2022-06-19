@@ -1,0 +1,12 @@
+name: shambaOS Role
+description: Provides a framework for managed roles and permissions.
+type: module
+package: shambaOS
+core_version_requirement: ^9
+dependencies:
+  - drupal:user
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

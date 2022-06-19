@@ -1,0 +1,14 @@
+name: shambaOS Import KML
+description: Provides a KML import feature for shambaOS.
+type: module
+package: shambaOS
+core_version_requirement: ^9
+dependencies:
+  - farm:farm_import
+  - farm:farm_kml
+  - farm:farm_land
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

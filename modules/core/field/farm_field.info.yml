@@ -1,0 +1,16 @@
+name: shambaOS Field
+description: Provides a service for generating shambaOS field definitions.
+type: module
+package: shambaOS
+core_version_requirement: ^9
+dependencies:
+  - drupal:field
+  - entity:entity
+  - farm:farm_map
+  - fraction:fraction
+  - inline_entity_form:inline_entity_form
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

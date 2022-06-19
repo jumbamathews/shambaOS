@@ -1,0 +1,13 @@
+name: shambaOS Field Kit
+description: Allows Field Kit to connect to this shambaOS server.
+type: module
+package: shambaOS
+core_version_requirement: ^9
+dependencies:
+  - entity:entity
+  - farm:farm_api
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

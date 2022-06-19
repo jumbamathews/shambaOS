@@ -1,0 +1,12 @@
+name: shambaOS KML
+description: Provides KML features for shambaOS.
+type: module
+package: shambaOS
+core_version_requirement: ^9
+dependencies:
+  - farm:farm_geo
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

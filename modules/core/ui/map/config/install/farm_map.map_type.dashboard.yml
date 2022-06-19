@@ -1,0 +1,11 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farm_ui_dashboard
+id: dashboard
+label: Dashboard
+description: 'The shambaOS dashboard map.'
+behaviors: { }
+options: { }

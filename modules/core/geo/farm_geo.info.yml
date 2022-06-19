@@ -1,0 +1,12 @@
+name: shambaOS Geo
+description: Provides geospatial features that other modules can use.
+type: module
+package: shambaOS
+core_version_requirement: ^9
+dependencies:
+  - geofield:geofield
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221

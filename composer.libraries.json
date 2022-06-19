@@ -1,0 +1,22 @@
+{
+    "require": {
+        "shambaOS/shambaOS-map": "*"
+    },
+    "repositories": {
+        "shambaOS-map": {
+            "type": "package",
+            "package": {
+                "name": "shambaOS/shambaOS-map",
+                "version": "2.0.4",
+                "type": "drupal-library",
+                "dist": {
+                  "url": "https://github.com/shambaOS/shambaOS-map/releases/download/v2.0.4/v2.0.4-dist.zip",
+                  "type": "zip"
+                },
+                "extra": {
+                  "installer-name": "shambaOS-map"
+                }
+            }
+        }
+    }
+}

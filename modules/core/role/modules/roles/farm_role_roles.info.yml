@@ -1,0 +1,12 @@
+name: shambaOS Default Roles
+description: 'Provides default roles: Manager, Worker, Viewer.'
+type: module
+package: shambaOS Defaults
+core_version_requirement: ^9
+dependencies:
+  - farm:farm_role
+
+# Information added by Drupal.org packaging script on 2022-06-02
+version: '2.0.0-beta5'
+project: 'farm'
+datestamp: 1654190221
